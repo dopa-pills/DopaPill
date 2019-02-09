@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Dopa\'Pill</string>
+    <string name="goodbye_button">Goodbye</string>
     <string name="greeting">Hello World!, yow</string>
 </resources>
